@@ -6,7 +6,6 @@ class CheckPalindrome implements Problem {
 
 	public void run(){
 		int cs = 12344321;
-		System.out.println(checkPalindrome(cs));
 	};
 
 	private int d(int num, int ind){
